@@ -7,9 +7,11 @@
 
 ## Retos y soluciones
 
-|  #  | Reto                                                                                                                                                                                                                               | Live coding |                                       |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------: |
-|  1  | <b>Automating Christmas gift wrapping! </b><br>The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.                      |     [#1](https://youtu.be/mE0abqZt5RE)     | [Ver solución](./challenges/reto01.md)  |
+| # | Live Coding                                               | Description                                                                                                                                                                                       | Difficulty | Solution |
+|---|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:----------:|
+| 1 | <img src="https://i.imgur.com/acpQnx0.png" width="200" /> | <b>Automating Christmas gift wrapping!</b> <br /> The elves bought a giftwrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task. |    🟩    | [View](./challenges/reto01.md) |
+|   |                                                           |                                                                                                                                                                                         |            |          |
+|   |                                                           |                                                                                                                                                                                         |            |          |
 
 
 <div align="center">
