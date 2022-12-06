@@ -1,8 +1,9 @@
 # 🎄 Advent JS 2022 por @midudev
 
-<div align="left">
+<div align="center">
     <h3>🎁 24 DAYS, 24 CODING CHALLENGES</h3>
-    <img width="200" src="https://i.imgur.com/cA63wKc.png">
+    <img width="300" src="https://i.imgur.com/EjnRIG9.png" />
+    <img width="300" src="https://i.imgur.com/cA63wKc.png" />
 </div>
 
 ## Retos y soluciones
