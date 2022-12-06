@@ -7,9 +7,9 @@
 
 ## Retos y soluciones
 
-|  #  | Reto                                                                                                                                                                                                                               | Link |                                       |
+|  #  | Reto                                                                                                                                                                                                                               | Live coding |                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------: |
-|  1  | <b>Automating Christmas gift wrapping! </b><br>The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.                      |     [#1](https://youtube.com/)     | [Ver solución](./challenges/reto01.md)  |
+|  1  | <b>Automating Christmas gift wrapping! </b><br>The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.                      |     [#1](https://youtu.be/mE0abqZt5RE)     | [Ver solución](./challenges/reto01.md)  |
 
 
 <div align="center">
