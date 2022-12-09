@@ -4,6 +4,8 @@
 
 ### 🟩 Easy
 
+#### Watch [Live coding](https://youtu.be/mE0abqZt5RE)
+
 ### The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.
 
 #### JavaScript
@@ -34,4 +36,4 @@ function wrapping(gifts: string[]): string[] {
 ```
 
 - [Go to challenge 1](https://adventjs.dev/challenges/2022/1)
-<!-- - [Link al siguiente reto](./reto1.md) -->
+- [Link al siguiente reto](./reto02.md)
