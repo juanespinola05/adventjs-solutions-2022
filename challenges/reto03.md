@@ -4,7 +4,7 @@
 
 ### 🟩 Easy
 
-#### Watch [Live coding](https://youtu.be/mE0abqZt5RE)
+#### Watch [Live coding](https://youtu.be/pV0v6mCNPZE)
 
 ### You receive a Christmas gifts pack that Santa Claus wants to deliver to the children. Each gift inside the pack is represented by a string and it has a weight equal to the number of letters in its name. Santa Claus's sleigh can only carry a weight limit.
 
