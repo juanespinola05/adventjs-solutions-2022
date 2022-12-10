@@ -4,7 +4,7 @@
 
 ### 🟩 Easy
 
-#### Watch [Live coding](https://youtu.be/mE0abqZt5RE)
+#### Watch [Live coding](https://youtu.be/cs_dDZjQp8s)
 
 ### A millionaire bought a social network, and he doesn't bring good news. He has announced that each time an employee misses a working day due to a holiday, they will have to compensate it with two extra hours another working day of the same year.
 
