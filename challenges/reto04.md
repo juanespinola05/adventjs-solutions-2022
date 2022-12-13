@@ -4,7 +4,7 @@
 
 ### 🟨 Medium
 
-#### Watch [Live coding](https://youtu.be/mE0abqZt5RE)
+#### Watch [Live coding](https://youtu.be/TBueCOpgvFo)
 
 ### Santa Claus needs to review his gift boxes to make sure he can pack them all in his sleigh. He has a series of boxes of different sizes, characterized by their length, width, and height.
 
