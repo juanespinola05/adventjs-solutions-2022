@@ -60,10 +60,10 @@ function createCube(size) {
 function createCube(size) {
   const createSide = ch => (
     Array.from({ length: size }, (_, i) => {
-    	return " ".repeat(ch[2] - i) + ch[0].repeat(i+1) + ch[1].repeat(size)
-  	})
-	)
-	const up = createSide(["/\\","_\\", size - 1])
+      return " ".repeat(ch[2] - i) + ch[0].repeat(i+1) + ch[1].repeat(size)
+    })
+  )
+  const up = createSide(["/\\","_\\", size - 1])
   const down = createSide(["\\/","_/", size - 1]).reverse()
   return [...up,...down].join('\n')
 }
@@ -77,10 +77,10 @@ type CubeSideParams = [string, string, number]
 function createCube(size: number): string {
   const createSide = (ch: CubeSideParams) => (
     Array.from({ length: size }, (_, i) => {
-    	return " ".repeat(ch[2] - i) + ch[0].repeat(i+1) + ch[1].repeat(size)
-  	})
-	)
-	const up = createSide(["/\\","_\\", size - 1])
+      return " ".repeat(ch[2] - i) + ch[0].repeat(i+1) + ch[1].repeat(size)
+    })
+  )
+  const up = createSide(["/\\","_\\", size - 1])
   const down = createSide(["\\/","_/", size - 1]).reverse()
   return [...up,...down].join('\n')
 }
